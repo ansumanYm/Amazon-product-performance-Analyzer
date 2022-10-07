@@ -13,3 +13,15 @@ The findall() function is used to find all the html tags of the required span, a
 
 `Scraping customer review links` - Customer reviews will be present in each page of the products. But these are just few. We want all the customer reviews for the products. So, we have to scrape the ‘see all customer reviews’ link.
 
+## What is Sentiment Analysis?
+Sentiment Analysis, also known as Opinion Mining, is one of the common research areas which performs Natural Language Processing (NLP) tasks for the purpose to extract subjective information by analyzing text data written by users. In the case of sentiment analysis of review data, the main goal is to identify the user’s subjectivity and classify the statements into different groups of sentiments.
+
+## Why Sentiment Analysis?
+Sentiment analysis tools are essential to detect and understand customer feelings. Companies that use these tools to understand how customers feel can use it to improve CX. Sentiment analysis tools generate insights into how companies can enhance the customer experience and improve customer service.
+
+Steps: -
+1. Text Preprocessing & Lemmatization
+2. Word Vectorization (BOW vs. TF-IDF)
+3. Implementing ML Classifiers & Evaluation Metrics
+4. Results
+5. Hyperparameter Tuning
